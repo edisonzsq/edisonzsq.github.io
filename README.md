@@ -16,4 +16,6 @@ You should have a GitHub account
 
 4. Wait for 5 minutes and visit the url `<your username>.github.io` on the browser to see your website being published.
 
+> Visit this sample webpage uploaded by this repository [here](https://edisonzsq.github.io)
+
 END
